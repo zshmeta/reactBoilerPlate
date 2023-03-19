@@ -1,0 +1,30 @@
+{
+  "name": "reactboilerplate",
+  "version": "1.0.0",
+  "description": "Custom React Boiler Plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zshmeta/reactBoilerPlate.git"
+  },
+  "keywords": [
+    "React",
+    "BoilerPlate",
+    "Custom",
+    "From",
+    "Scratch"
+  ],
+  "author": "zshmeta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zshmeta/reactBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/zshmeta/reactBoilerPlate#readme",
+  "dependencies": {
+    "npm": "^9.6.2",
+    "react": "^18.2.0"
+  }
+}
